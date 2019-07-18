@@ -1,2 +1,3 @@
 # python-tasks
-My practice with Python
+
+## [Project Euler tasks](http://euler.jakumo.org/problems.html)
